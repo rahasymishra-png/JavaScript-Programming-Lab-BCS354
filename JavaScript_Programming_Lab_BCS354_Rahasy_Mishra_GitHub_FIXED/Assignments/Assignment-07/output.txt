@@ -1,0 +1,22 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 7: Constructor Functions and Classes
+
+
+
+ASSIGNMENT 7 — TASK 1: Create a Student using a constructor function
+Asha
+[33m88[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 7 — TASK 2: Create a Book class with a summary method
+Algorithms has 320 pages
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 7 — TASK 3: Add result() through Student.prototype
+Pass

@@ -1,0 +1,29 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 5: Arrays, Array Methods and Nested Arrays
+
+
+
+ASSIGNMENT 5 — TASK 1: Create marks array and print its length and first mark
+[33m4[39m
+[33m72[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 5 — TASK 2: Print each subject using forEach()
+Maths
+Science
+English
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 5 — TASK 3: Filter marks of 60 or more
+[ [33m72[39m, [33m85[39m, [33m90[39m ]
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 5 — TASK 4: Read row 2, column 3 from a nested array
+[33m6[39m

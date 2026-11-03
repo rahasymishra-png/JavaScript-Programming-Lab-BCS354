@@ -1,0 +1,29 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 15: Promises and async/await with Local Data
+
+
+
+ASSIGNMENT 15 — TASK 1: Resolve a Promise for valid marks
+[33m80[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 15 — TASK 2: Reject a Promise for out-of-range marks
+Marks out of range
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 15 — TASK 3: Handle Promise results with async/await
+[33m65[39m
+Caught: Marks out of range
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 15 — TASK 4: Load local users with a Promise
+Asha
+Rohan
+Meera

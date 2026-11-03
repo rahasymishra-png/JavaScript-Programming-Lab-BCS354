@@ -1,0 +1,23 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 13: Reduce, Some, Every and Map
+
+
+
+ASSIGNMENT 13 — TASK 1: Find the total using reduce()
+[33m465[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 13 — TASK 2: Test marks with some() and every()
+[33mtrue[39m
+[33mfalse[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 13 — TASK 3: Increase each mark using map()
+[ [33m77[39m, [33m90[39m, [33m69[39m, [33m95[39m ]
+[ [33m72[39m, [33m85[39m, [33m64[39m, [33m90[39m ]

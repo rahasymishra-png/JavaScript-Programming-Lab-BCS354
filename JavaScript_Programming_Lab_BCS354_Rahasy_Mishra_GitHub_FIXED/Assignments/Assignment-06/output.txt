@@ -1,0 +1,21 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 6: JSON Text
+
+
+
+ASSIGNMENT 6 — TASK 1: Convert an object to JSON text
+{"name":"Rohan","marks":[70,80]}
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 6 — TASK 2: Parse JSON text and print city
+Pune
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 6 — TASK 3: Catch invalid JSON
+Invalid JSON

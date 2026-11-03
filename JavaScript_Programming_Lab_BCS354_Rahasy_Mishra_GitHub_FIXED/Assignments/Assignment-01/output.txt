@@ -1,0 +1,26 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 1: Your First JavaScript Script
+
+
+
+ASSIGNMENT 1 — TASK 1: Print a message in the browser
+Open index.html in a browser and check the Developer Tools console.
+Expected console output:
+Hello from the script
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 1 — TASK 2: Declare and display values with const and let
+Sample College
+[33m2026[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 1 — TASK 3: Display the types of values using typeof
+string
+number
+boolean

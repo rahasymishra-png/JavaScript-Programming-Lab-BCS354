@@ -1,0 +1,21 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 4: Writing Functions
+
+
+
+ASSIGNMENT 4 — TASK 1: Create and call greet()
+Hello, Asha
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 4 — TASK 2: Create an arrow function square
+[33m36[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 4 — TASK 3: Use a default parameter in billWithTax()
+[33m118[39m

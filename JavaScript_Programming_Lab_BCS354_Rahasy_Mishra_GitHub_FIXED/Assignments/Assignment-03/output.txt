@@ -1,0 +1,25 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 3: Conditions and Loops
+
+
+
+ASSIGNMENT 3 — TASK 1: Display a grade using conditions
+Grade B
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 3 — TASK 2: Print numbers from 1 to 5 using a for loop
+[33m1[39m
+[33m2[39m
+[33m3[39m
+[33m4[39m
+[33m5[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 3 — TASK 3: Add numbers with a while loop until total exceeds 20
+[33m21[39m

@@ -1,0 +1,23 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 12: Callbacks and Higher-Order Functions
+
+
+
+ASSIGNMENT 12 — TASK 1: Apply a function twice
+[33m25[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 12 — TASK 2: Format marks with a callback
+Marks: 76/100
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 12 — TASK 3: Repeat an action three times
+Round 1
+Round 2
+Round 3

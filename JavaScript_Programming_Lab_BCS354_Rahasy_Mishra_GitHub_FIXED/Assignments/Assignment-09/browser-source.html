@@ -1,0 +1,70 @@
+<!--
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 9: DOM, Validation, Storage and Quiz
+-->
+
+<!-- ASSIGNMENT 9 — TASK 1: Change a heading when a button is clicked -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>DOM Click</title></head>
+<body>
+  <h2 id="heading">Welcome</h2>
+  <button id="change">Change text</button>
+  <script>
+    document.getElementById("change").addEventListener("click", () => {
+      document.getElementById("heading").textContent = "Button clicked";
+    });
+  </script>
+</body>
+</html>
+
+
+
+<!-- ASSIGNMENT 9 — TASK 3: Save and restore text with localStorage -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Local Storage Note</title></head>
+<body>
+  <input id="note" type="text" placeholder="Write a note">
+  <button id="save">Save</button>
+  <p id="status"></p>
+  <script>
+    const box = document.getElementById("note");
+    const status = document.getElementById("status");
+
+    box.value = localStorage.getItem("note") || "";
+
+    document.getElementById("save").addEventListener("click", () => {
+      localStorage.setItem("note", box.value);
+      status.textContent = "Saved";
+    });
+  </script>
+</body>
+</html>
+
+
+
+<!-- ASSIGNMENT 9 — TASK 4: Build a three-option quiz -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>JavaScript Quiz</title></head>
+<body>
+  <p>What is 2 + 3?</p>
+  <label><input type="radio" name="answer" value="4">4</label>
+  <label><input type="radio" name="answer" value="5">5</label>
+  <label><input type="radio" name="answer" value="6">6</label>
+  <button id="check">Check answer</button>
+  <p id="result"></p>
+  <script>
+    document.getElementById("check").addEventListener("click", () => {
+      const choice = document.querySelector('input[name="answer"]:checked');
+      document.getElementById("result").textContent =
+        choice && choice.value === "5" ? "Correct" : "Try again";
+    });
+  </script>
+</body>
+</html>

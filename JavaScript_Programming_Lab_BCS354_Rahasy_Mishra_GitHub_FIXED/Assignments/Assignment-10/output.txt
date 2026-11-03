@@ -1,0 +1,24 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 10: Objects and Destructuring
+
+
+
+ASSIGNMENT 10 — TASK 1: Read and update object properties
+Rohan
+[33m81[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 10 — TASK 2: Use array destructuring
+Maths
+Science
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 10 — TASK 3: Use object destructuring
+Rohan
+[33m12[39m

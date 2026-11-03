@@ -1,0 +1,25 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 14: Timers and Intervals
+
+
+
+ASSIGNMENT 14 — TASK 1: Observe setTimeout() with zero delay
+Start
+End
+Timer done
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 14 — TASK 2: Cancel a timeout
+Cancelled
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 14 — TASK 3: Print three ticks using setInterval()
+Tick 1
+Tick 2
+Tick 3

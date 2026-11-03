@@ -1,0 +1,23 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 11: Scope and Closures
+
+
+
+ASSIGNMENT 11 — TASK 1: Demonstrate block scope
+inner
+outer
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 11 — TASK 2: Create a counter using a closure
+[33m1[39m
+[33m2[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 11 — TASK 3: Access a global variable in a function
+Welcome to Sample College

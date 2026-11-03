@@ -1,0 +1,22 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 8: Inheritance, Methods and Composition
+
+
+
+ASSIGNMENT 8 — TASK 1: Create Person and Teacher classes
+Hi, I am Anita
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 8 — TASK 2: Check a locker PIN
+[33mfalse[39m
+[33mtrue[39m
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 8 — TASK 3: Use composition with Engine and Car
+Car starts with 150 HP

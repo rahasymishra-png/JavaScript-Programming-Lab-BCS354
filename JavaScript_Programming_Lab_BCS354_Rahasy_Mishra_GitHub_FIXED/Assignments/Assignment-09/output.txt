@@ -1,0 +1,29 @@
+INVERTIS UNIVERSITY, BAREILLY
+JAVASCRIPT PROGRAMMING LAB — BCS354
+STUDENT NAME: RAHASY MISHRA
+UNIVERSITY ID / ROLL NO.: BCS 2025 548
+BRANCH: B.Tech CSE
+ASSIGNMENT 9: DOM, Validation, Storage and Quiz
+
+
+
+ASSIGNMENT 9 — TASK 1: Change a heading when a button is clicked
+Open index.html and click **Change text**.
+Before click: Welcome
+After click: Button clicked
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 9 — TASK 2: Validate a name
+[]
+[ [32m'Name is required'[39m ]
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 9 — TASK 3: Save and restore text with localStorage
+Open index.html, enter text, and click **Save**. Refresh the page: the saved text is restored from browser localStorage.
+
+------------------------------------------------------------------------
+
+ASSIGNMENT 9 — TASK 4: Build a three-option quiz
+Open index.html. Select **5** and click **Check answer** to see Correct. Selecting 4 or 6 shows Try again.
